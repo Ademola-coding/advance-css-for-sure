@@ -1,0 +1,84 @@
+header {
+    color: rgb(255, 129, 71);
+    font-style: italic;
+    font-size: 150%;
+    background-color: rgba(30, 71, 117, 0.637);
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 15px;
+    border: brown solid;
+    border-width: 10px;
+
+}
+nav{
+    color: rgba(20, 247, 50, 0.705);
+    font-style: oblique;
+    font-size: 150%;
+    text-align: justify;
+    width: fit-content;
+    margin: auto;
+}
+body{
+    background-color: rgba(209, 19, 35, 0.842);
+    width: 90%;
+    margin-left: 30px;
+
+}
+table{color: rgb(245, 255, 101);
+    background-color: turquoise;
+    text-align: center;
+}
+ol,ul, menu{
+    font-style: italic;
+    color: rgba(0, 181, 252, 0.815);
+    font-size: 120%;
+    display: inline-block;
+}
+button{
+    font-style: oblique;
+    color: rgb(55, 0, 252);
+}
+meter, progress,summary,p {
+    font-style: italic;
+    color: lightpink;
+    background-color: magenta;
+}
+h4,h1{
+    color: maroon;
+    background-color: mintcream;
+    font-size: 150%;
+    font-variant: small-caps;
+}
+h3{
+    color: lawngreen;
+    background-color: mediumorchid;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    width: fit-content;
+    display: inline-block
+}
+a:hover{
+    background-color: fuchsia !important;
+    color: gold;
+}
+/*remember there are a:focus and a:active*/
+/*REMEMBER*/
+/*ul{
+list-style-type: upper-alpha  A,B,C,D;
+OR lower-alpha, decimal,
+ decimal-leading-zero, hebrew,etc.
+ OR
+ list-style-image: square url("for image linking as icon") h
+ */
+ article{
+     font-style: italic;
+     font-size: 70px;
+     color: hotpink;
+     background-color: khaki;
+     background-image:url(1628413337730.jpg);
+     width: 306px;
+     height: 462px;
+     margin-left: auto;
+     padding-bottom: 10px;
+ }
